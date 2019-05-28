@@ -133,4 +133,7 @@
 			<artifactId>spring-boot-starter-quartz</artifactId>
 		</dependency>
 	</dependencies>
+	<modules>
+		<module>jt-manage</module>
+	</modules>
 </project>
