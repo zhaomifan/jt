@@ -135,5 +135,6 @@
 	</dependencies>
 	<modules>
 		<module>jt-manage</module>
+		<module>jt-common</module>
 	</modules>
 </project>
